@@ -10,7 +10,7 @@
     <div class="flex"><button id="a-refresh">重新整理代號清單</button><button id="a-copy">複製 symbols.json 內容</button><button id="a-backup">立即備份交易紀錄</button></div>
     <p id="a-symbols" class="muted"></p>
     <p id="a-cloud-symbols" class="muted"></p>
-    <p class="muted">只支援證交所 TWSE 上市股票／ETF。上櫃股票（TPEx）、興櫃及部分其他商品尚未支援官方自動報價。交易紀錄僅存在本裝置瀏覽器，不會公開上傳。</p>
+    <p class="muted">只支援證交所 TWSE 上市股票／ETF。上櫃股票（TPEx）、興櫃及部分其他商品尚未支援官方自動報價。交易紀錄可選擇同步至你的私人 Supabase 帳號；官方行情仍需更新 GitHub symbols.json。</p>
     <p><a href="https://github.com/akaitang/etf-tracker/edit/main/symbols.json" target="_blank" rel="noopener">前往 GitHub 編輯 symbols.json</a></p>
     <small>備份提醒：每次新增交易後建議匯出 JSON。換裝置時請使用下方「資料備份」區的匯入功能。</small>
   `;
