@@ -1,0 +1,5 @@
+先在原網站匯出 JSON 備份。
+將 index.html 上傳覆蓋 GitHub 專案根目錄的 index.html。
+如尚未安裝 A 版，另外上傳 upgrade.js，並在 index.html 最後的 </body> 前加入 <script src="./upgrade.js" defer></script>。
+注意：本版只增加交易日期時間欄位，不會自動猜測舊紀錄時間。舊交易可直接在表格日期時間欄位補填。
+更新後重新整理網站；手機瀏覽器與電腦本機交易資料仍不同步。
