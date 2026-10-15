@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-15",
+  "status": "verified",
+  "updated_at": "2026-10-15T13:52:27.857387+08:00",
+  "symbols": [
+    "009816",
+    "00982A",
+    "00631L"
+  ],
+  "quotes": {
+    "009816": {
+      "price": 16.19,
+      "date": "2026-10-15",
+      "source": "TWSE STOCK_DAY",
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261015&stockNo=009816"
+    },
+    "00982A": {
+      "price": 22.25,
+      "date": "2026-10-15",
+      "source": "TWSE STOCK_DAY",
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261015&stockNo=00982A"
+    },
+    "00631L": {
+      "price": 37.14,
+      "date": "2026-10-15",
+      "source": "TWSE STOCK_DAY",
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261015&stockNo=00631L"
+    }
+  },
+  "errors": {},
+  "note": "僅所有代號皆有指定日期 TWSE 官方資料才視為完整確認。"
+}
