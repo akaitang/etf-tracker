@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "status": "verified",
-  "updated_at": "2026-11-02T17:29:40.868986+08:00",
+  "updated_at": "2026-11-03T17:14:23.152943+08:00",
   "symbols": [
     "009816",
     "00982A",
@@ -9,22 +9,22 @@
   ],
   "quotes": {
     "009816": {
-      "price": 15.56,
-      "date": "2026-11-02",
+      "price": 15.04,
+      "date": "2026-11-03",
       "source": "TWSE STOCK_DAY",
-      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261102&stockNo=009816"
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261103&stockNo=009816"
     },
     "00982A": {
-      "price": 20.65,
-      "date": "2026-11-02",
+      "price": 19.36,
+      "date": "2026-11-03",
       "source": "TWSE STOCK_DAY",
-      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261102&stockNo=00982A"
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261103&stockNo=00982A"
     },
     "00631L": {
-      "price": 33.83,
-      "date": "2026-11-02",
+      "price": 31.48,
+      "date": "2026-11-03",
       "source": "TWSE STOCK_DAY",
-      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261102&stockNo=00631L"
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261103&stockNo=00631L"
     }
   },
   "errors": {},
