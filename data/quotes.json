@@ -1,16 +1,32 @@
 {
-  "date": "2026-11-11",
-  "status": "unverified",
-  "updated_at": "2026-11-11T17:18:19.100425+08:00",
+  "date": "2026-11-12",
+  "status": "verified",
+  "updated_at": "2026-11-12T17:23:45.315520+08:00",
   "symbols": [
     "009816",
     "00982A",
     "00631L"
   ],
-  "quotes": {},
-  "errors": {
-    "00982A": "HTTP Error 307: Temporary Redirect",
-    "00631L": "HTTP Error 307: Temporary Redirect"
+  "quotes": {
+    "009816": {
+      "price": 15.03,
+      "date": "2026-11-12",
+      "source": "TWSE STOCK_DAY",
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261112&stockNo=009816"
+    },
+    "00982A": {
+      "price": 18.86,
+      "date": "2026-11-12",
+      "source": "TWSE STOCK_DAY",
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261112&stockNo=00982A"
+    },
+    "00631L": {
+      "price": 30.99,
+      "date": "2026-11-12",
+      "source": "TWSE STOCK_DAY",
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?response=json&date=20261112&stockNo=00631L"
+    }
   },
+  "errors": {},
   "note": "僅所有代號皆有指定日期 TWSE 官方資料才視為完整確認。"
 }
