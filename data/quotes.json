@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "status": "unverified",
-  "updated_at": "2026-11-24T04:24:37.114303+08:00",
+  "updated_at": "2026-11-25T03:35:43.343940+08:00",
   "symbols": [
     "009816",
     "00982A",
@@ -9,9 +9,9 @@
   ],
   "quotes": {},
   "errors": {
-    "009816": "TWSE does not contain exact date 115/11/24",
-    "00982A": "TWSE does not contain exact date 115/11/24",
-    "00631L": "TWSE does not contain exact date 115/11/24"
+    "009816": "TWSE does not contain exact date 115/11/25",
+    "00982A": "TWSE does not contain exact date 115/11/25",
+    "00631L": "TWSE does not contain exact date 115/11/25"
   },
   "note": "僅所有代號皆有指定日期 TWSE 官方資料才視為完整確認。"
 }
